@@ -63,7 +63,7 @@ create table orders (
     comment text,
     paid_at timestamp
 );
-
+```
 <details> <summary>Python: JSON → XLSX</summary>
 PROMPT:
 напиши python скрипт для добавления данных из json в xlsx таблицу...
