@@ -1,0 +1,16 @@
+.env
+site/.env.development.local
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.ipynb_checkpoints/
+
+venv/
+.venv/
