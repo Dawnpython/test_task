@@ -4,7 +4,7 @@
 
 - Дашборд: https://orders-dashboard-delta.vercel.app/
 - Репозиторий: https://github.com/Dawnpython/test_task
-- Telegram уведомления: /tg_notify
+- Telegram уведомления: [/tg_notify](https://github.com/Dawnpython/test_task/blob/main/tg_notify/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7.png)
 
 ---
 
